@@ -117,6 +117,9 @@ section img#mountains_front {
   color: #fff;
 }
 @media (max-width: 850px) {
+  #text {
+    right: -305px;
+  }
   header {
     padding: 15px;
   }
